@@ -7,7 +7,7 @@ This tool can be used to download BIDS inputs and derivatives from the DCAN Labs
 ### datastructure_manifest.txt 
 
 
-To use this downloader you must first have an NDA account and download the "DCAN Labs ABCD-BIDS MRI pipeline inputs and derivatives" collection from the [NDA website](https://ndar.nih.gov/):
+To use this downloader you must first have an NDA account and download the "DCAN Labs ABCD-BIDS Community Collection (ABCC)" collection from the [NDA website](https://ndar.nih.gov/):
 1.  Navigate to the [NDA website](https://ndar.nih.gov/)
 1.  Under "Get Data" select "Get Data beta"
 1.  On the side bar select "Data from Labs"
